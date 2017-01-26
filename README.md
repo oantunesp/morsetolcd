@@ -5,4 +5,6 @@ In Morse Code, a quick button press is represented as a single dot ("·"). And a
 
 For example, if the user press the button three times quickly (···), the character "S" will be printed out. If the user press the button three times, but not that quickly (---), it will print "O".
 
-I think it can be used by patients with neurodegenerive disorders (among other disabilities), since it's easy to press a button.
+I think it can be used by patients with neurodegenerive disorders (among other disabilities) to communicate, since it's easy to press a button.
+
+Omir
